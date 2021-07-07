@@ -1,6 +1,6 @@
 # at-scala
 
-No musings.
+No musings. Targeting version 3 of the Scala language.
 
 ## Status
 
